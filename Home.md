@@ -1,3 +1,7 @@
+---
+aliases: [chalee]
+---
+
 # ชกา (Chaka Cafe) Knowledge Base
 
 > ศูนย์รวมข้อมูลสำหรับ Production คลิปการ์ตูนโปรโมท

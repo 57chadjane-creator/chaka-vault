@@ -1,3 +1,7 @@
+---
+tags: [production]
+---
+
 # Pipeline — ผลิตคลิปการ์ตูนโปรโมท
 
 ## 1. Gen ภาพ keyframe (Phaya Nano Banana)

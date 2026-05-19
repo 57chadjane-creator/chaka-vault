@@ -1,3 +1,7 @@
+---
+tags: [rule]
+---
+
 # Traps & Pitfalls
 
 ## Prompt Traps

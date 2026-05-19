@@ -1,3 +1,7 @@
+---
+tags: [character]
+---
+
 # ชิบเปอร์ (Chibper)
 
 **Species:** Scarlet Minivet (นกพญาไฟใหญ่) ♂

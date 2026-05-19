@@ -1,3 +1,7 @@
+---
+tags: [character]
+---
+
 # ลุงชู (Lungchu)
 
 **Species:** Common Green Magpie (นกสาริกาเขียว)

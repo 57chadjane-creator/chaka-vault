@@ -1,3 +1,7 @@
+---
+tags: [production]
+---
+
 # Approved Refs (ใช้เป็น image_input ทุกครั้ง)
 
 ## Character Refs

@@ -1,3 +1,7 @@
+---
+tags: [production]
+---
+
 # Prompt Templates
 
 ## 3 Birds + Signs (BTS style)

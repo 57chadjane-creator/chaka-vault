@@ -1,3 +1,7 @@
+---
+tags: [character]
+---
+
 # ชุปเปอร์ (Chupper)
 
 **Species:** Scarlet Minivet (นกพญาไฟใหญ่) ♂
