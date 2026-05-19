@@ -1,6 +1,4 @@
 ---
-aliases: [chalee]
----
 
 # ชกา (Chaka Cafe) Knowledge Base
 
