@@ -1,24 +1,24 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#character",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16723502
       }
     },
     {
       "query": "tag:#production",
       "color": {
         "a": 1,
-        "rgb": 16737792
+        "rgb": 16753920
       }
     },
     {
@@ -32,20 +32,20 @@
       "query": "tag:#rule",
       "color": {
         "a": 1,
-        "rgb": 10066431
+        "rgb": 12834813
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.2,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.8,
+  "lineSizeMultiplier": 0.8,
   "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "centerStrength": 0.6,
+  "repelStrength": 15,
+  "linkStrength": 0.8,
+  "linkDistance": 200,
+  "scale": 1.2,
   "close": false
 }
